@@ -1,6 +1,6 @@
 # SQL Interview Questions Repository
 
-This repository contains a collection of 50 SQL interview questions with corresponding queries, designed to help you prepare for SQL-related interviews. The questions cover a wide range of SQL concepts, from basic to advanced, including query writing, data manipulation, and various SQL functions.
+This repository contains 50 SQL interview questions with corresponding queries, designed to help you prepare for SQL-related interviews. The questions cover a wide range of SQL concepts, from basic to advanced, including query writing, data manipulation, and various SQL functions.
 
 ## Questions
 
